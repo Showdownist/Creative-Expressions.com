@@ -4,6 +4,7 @@ body {
     background-position: center; /* Centers the background image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     background-attachment: fixed; /* Makes the background fixed while scrolling */
+    background-color: #edf3fd;
 }
 
 h1{
@@ -54,16 +55,4 @@ h3{
 }
 ol{
     text-align: center;
-}
-.dropdown p{
-    display: block;
-    color: black;
-
-}
-.dropdown .search-help {
-    text-align: center;
-    display: none;
-}
-.dropdown:hover .search-help{
-    display: block;
 }
