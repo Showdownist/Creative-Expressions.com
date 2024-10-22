@@ -55,3 +55,15 @@ h3{
 ol{
     text-align: center;
 }
+.dropdown p{
+    display: block;
+    color: black;
+
+}
+.dropdown .search-help {
+    text-align: center;
+    display: none;
+}
+.dropdown:hover .search-help{
+    display: block;
+}
